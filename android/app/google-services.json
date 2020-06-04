@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "185604407242",
+    "firebase_url": "https://gozione.firebaseio.com",
+    "project_id": "gozione",
+    "storage_bucket": "gozione.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185604407242:android:86546ffbad707bc0fb9933",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185604407242-jusubqc1mivb20jtk1jc4akvrppan774.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8gO7Twyc14TxdAQLuN-IhuTVG67Iap0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185604407242-jusubqc1mivb20jtk1jc4akvrppan774.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185604407242-i26p31g02pgoqe6kqdhnhdves4g21k8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185604407242:android:19d0db015bfc87b3fb9933",
+        "android_client_info": {
+          "package_name": "com.saleafterservice.gozione"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185604407242-jusubqc1mivb20jtk1jc4akvrppan774.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8gO7Twyc14TxdAQLuN-IhuTVG67Iap0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185604407242-jusubqc1mivb20jtk1jc4akvrppan774.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185604407242-i26p31g02pgoqe6kqdhnhdves4g21k8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
